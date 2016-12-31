@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bcprov-ext-jdk15on-156">
+    <CLASSES>
+      <root url="jar://D:/bcprov-ext-jdk15on-156.jar!/" />
+      <root url="jar://D:/bcprov-jdk15on-156.jar!/" />
+      <root url="jar://D:/UnlimitedJCEPolicyJDK8/local_policy.jar!/" />
+      <root url="jar://D:/UnlimitedJCEPolicyJDK8/US_export_policy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
